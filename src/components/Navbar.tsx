@@ -101,7 +101,7 @@ const Navbar = () => {
               }`}
             >
               <Phone size={16} className="mr-2" />
-              <span className="font-medium">Emergency: (123) 456-7890</span>
+              <span className="font-medium">Emergency: +918262087955</span>
             </a>
           </div>
 
@@ -166,7 +166,7 @@ const Navbar = () => {
               className="flex items-center px-4 py-2 rounded-full bg-emerald-600 text-white hover:bg-emerald-700"
             >
               <Phone size={16} className="mr-2" />
-              <span className="font-medium">Emergency: (123) 456-7890</span>
+              <span className="font-medium">Emergency: +918262087955</span>
             </a>
           </div>
         </div>

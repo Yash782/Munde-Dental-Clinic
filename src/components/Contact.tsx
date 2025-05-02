@@ -102,22 +102,23 @@ const Contact = () => {
     {
       icon: <MapPin className="text-emerald-500" />,
       title: "Our Location",
-      content: "123 Dental Way, Medical District, New York, NY 10001",
-    },
-    {
-      icon: <Phone className="text-emerald-500" />,
-      title: "Phone Number",
-      content: "(123) 456-7890",
-    },
-    {
-      icon: <Mail className="text-emerald-500" />,
-      title: "Email Address",
-      content: "info@smilecare-dental.com",
+      content:
+        "Munde Dental Clinic, Near Anna Idali, Manish Nagar, Somalwada, Nagpur, Maharashtra, India 440015",
     },
     {
       icon: <Clock className="text-emerald-500" />,
       title: "Opening Hours",
       content: "Mon-Fri: 8am-6pm | Sat: 9am-2pm | Sun: Closed",
+    },
+    {
+      icon: <Phone className="text-emerald-500" />,
+      title: "Phone Number",
+      content: "+918262087955",
+    },
+    {
+      icon: <Mail className="text-emerald-500" />,
+      title: "Email Address",
+      content: "dr.mundedentalclinic@gmail.com",
     },
   ];
 

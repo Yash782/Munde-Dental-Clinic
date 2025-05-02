@@ -178,7 +178,7 @@ const Footer = () => {
                 <p className="text-white font-semibold">
                   Emergency Care Available
                 </p>
-                <p className="text-emerald-400 font-bold">(123) 456-7890</p>
+                <p className="text-emerald-400 font-bold">+918262087955</p>
               </div>
             </div>
           </div>
