@@ -311,54 +311,6 @@ export default function Contact() {
                 </div>
               ))}
             </div>
-
-            <div className="bg-white rounded-xl shadow-lg overflow-hidden">
-              <div className="p-6 bg-emerald-600 text-white">
-                <h3 className="text-2xl font-semibold mb-2">
-                  Hospital Information
-                </h3>
-                <p className="opacity-90">
-                  Munde Dental Clinic is a state-of-the-art dental facility
-                  providing comprehensive dental care.
-                </p>
-              </div>
-              <div className="p-6">
-                <div className="mb-4">
-                  <h4 className="font-semibold text-gray-800 mb-2">
-                    Facility Features
-                  </h4>
-                  <ul className="text-gray-600 space-y-1">
-                    <li>
-                      • 10 treatment rooms with advanced dental technology
-                    </li>
-                    <li>• Dedicated children's area with entertainment</li>
-                    <li>• Comfortable waiting area with refreshments</li>
-                    <li>• Wheelchair accessible throughout</li>
-                    <li>• Free parking available for patients</li>
-                  </ul>
-                </div>
-                <div className="mb-4">
-                  <h4 className="font-semibold text-gray-800 mb-2">
-                    Insurance & Payment
-                  </h4>
-                  <p className="text-gray-600">
-                    We accept most major insurance plans and offer flexible
-                    payment options. Please contact our office for specific
-                    details about your coverage.
-                  </p>
-                </div>
-                <div>
-                  <h4 className="font-semibold text-gray-800 mb-2">
-                    Emergency Care
-                  </h4>
-                  <p className="text-gray-600">
-                    For dental emergencies during business hours, please call us
-                    directly. For after-hours emergencies, call our main number
-                    for instructions on reaching our on-call dentist.
-                  </p>
-                </div>
-              </div>
-            </div>
           </div>
         </div>
       </div>
