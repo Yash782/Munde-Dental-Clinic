@@ -178,10 +178,21 @@ const Footer = () => {
 
         <div className="border-t border-gray-700 py-6">
           <div className="flex flex-col md:flex-row justify-between items-center">
-            <p className="text-gray-400 text-sm">
+            <p className="text-gray-400 text-sm text-center md:text-left">
               &copy; {currentYear} Munde Dental Clinic. All rights reserved.
             </p>
-            <div className="mt-4 md:mt-0 flex space-x-6 text-sm text-gray-400">
+            <div className="mt-2 md:mt-0 text-sm text-gray-400">
+              Crafted by{" "}
+              <a
+                href="https://webdrift.in"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="hover:text-emerald-400 underline"
+              >
+                Webdrift.in
+              </a>
+            </div>
+            {/* <div className="mt-4 md:mt-0 flex space-x-6 text-sm text-gray-400">
               <a href="#" className="hover:text-emerald-400">
                 Privacy Policy
               </a>
@@ -191,7 +202,7 @@ const Footer = () => {
               <a href="#" className="hover:text-emerald-400">
                 Cookie Policy
               </a>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>

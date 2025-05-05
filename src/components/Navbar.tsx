@@ -70,15 +70,9 @@ const Navbar = () => {
             </span>
             <span
               className={linkClasses}
-              onClick={() => scrollToSection("about")}
-            >
-              About
-            </span>
-            <span
-              className={linkClasses}
               onClick={() => scrollToSection("team")}
             >
-              Our Team
+              Doctor
             </span>
             <span
               className={linkClasses}
