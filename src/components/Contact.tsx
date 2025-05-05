@@ -113,7 +113,7 @@ export default function Contact() {
     {
       icon: <Clock className="text-emerald-500" />,
       title: "Opening Hours",
-      content: "Mon–Fri: 8am–6pm | Sat: 9am–2pm | Sun: Closed",
+      content: "Mon–Sun: 10am–9pm",
     },
     {
       icon: <Phone className="text-emerald-500" />,

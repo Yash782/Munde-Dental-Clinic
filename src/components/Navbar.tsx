@@ -93,7 +93,7 @@ const Navbar = () => {
               Contact
             </span>
             <a
-              href="tel:+1234567890"
+              href="tel:+918262087955"
               className={`flex items-center px-4 py-2 rounded-full transition-colors duration-300 ${
                 isScrolled
                   ? "bg-emerald-600 text-white hover:bg-emerald-700"
@@ -162,7 +162,7 @@ const Navbar = () => {
               Contact
             </span>
             <a
-              href="tel:+1234567890"
+              href="tel:+918262087955"
               className="flex items-center px-4 py-2 rounded-full bg-emerald-600 text-white hover:bg-emerald-700"
             >
               <Phone size={16} className="mr-2" />

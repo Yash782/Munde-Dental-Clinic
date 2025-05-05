@@ -48,7 +48,7 @@ const Hero = () => {
                 />
               </button>
               <a
-                href="tel:+1234567890"
+                href="tel:+918262087955"
                 className="border-2 border-white text-white px-8 py-3 rounded-full font-semibold hover:bg-white hover:text-emerald-700 transition-all duration-300 flex items-center justify-center"
               >
                 <Calendar className="mr-2" size={20} />
